@@ -11,7 +11,8 @@
 # ipynb Files and tasks performed:
 ## 00_data-prep.ipynb: 
 
-### Scrape latest Politifact.com with 17682 records , Scrape latest Snopes.com with 7022 records, Pulled Inference data from NewsAPI. Done inference using a Button , loaded all the models (sklearn, bert and keras) and ran inference .
+### Scrape latest Politifact.com with 17682 records , Scrape latest Snopes.com with 7022 records, 
+### Pulled Inference data from NewsAPI. Done inference using a Button , loaded all the models (sklearn, bert and keras) and ran inference .
 
 ## 01_sklearn-embedding-pipelines.ipynb: 
 
