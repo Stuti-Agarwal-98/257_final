@@ -20,6 +20,10 @@
 ### saved the prediction, saved the y_test values, Amalgamated_Dataset - 1 and Dataset - 2 ,
 ### trained the model on it, saved the model, saved the prediction, saved the y_test values,
 ### mapped the label to the 1-6 labels, Did evaluation and comparison using the same ROC visualization as 004_comparison Colab
+### Comparison of model roc scores across datasets for sklearn:
+
+![image](https://user-images.githubusercontent.com/71077352/119454317-47096080-bced-11eb-8b8f-c1ac25d0fecf.png)
+
 
 ## 02_keras.ipynb:
 
@@ -28,6 +32,10 @@
 ### trained the model on it, saved the model, saved the prediction, saved the y_test values,
 ### Amalgamated_Dataset - 1 and Dataset - 2 , trained the model on it, saved the model, saved the prediction,
 ### saved the y_test values,,mapped the label to the 1-6 labels, Did evaluation and comparison using the same ROC visualization as 004_comparison Colab
+### Comparison of model roc scores across datasets for keras:
+
+![image](https://user-images.githubusercontent.com/71077352/119454547-8041d080-bced-11eb-9474-9d5d1fb743c9.png)
+
 
 ## 03_bert.ipynb :
 
@@ -36,6 +44,10 @@
 ### saved the prediction, saved the y_test values, Amalgamated_Dataset - 1 and Dataset - 2 ,
 ### trained the model on it, saved the model, saved the prediction, saved the y_test values,
 ### mapped the label to the 1-6 labels, Did evaluation and comparison using the same ROC visualization as 004_comparison Colab
+### Comparison of model roc scores across datasets for bert:
+
+![image](https://user-images.githubusercontent.com/71077352/119454814-ce56d400-bced-11eb-8b40-df598670102c.png)
+
 
 ## 04_ compare-experiments.ipynb:
 
