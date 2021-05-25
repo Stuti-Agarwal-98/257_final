@@ -9,15 +9,25 @@
 ## Inference Dataset: NewsAPI
 
 # ipynb Files and tasks performed:
-## 00_data-prep.ipynb: Scrape latest Politifact.com with 17682 records , Scrape latest Snopes.com with 7022 records, Pulled Inference data from NewsAPI. Done inference using a Button , loaded all the models (sklearn, bert and keras) and ran inference .
+## 00_data-prep.ipynb: 
 
-## 01_sklearn-embedding-pipelines.ipynb: Loaded Dataset - 1 , trained the model on it, saved the model, saved the prediction, saved the y_test values, Loaded Dataset - 2 ,trained the model on it, saved the model, saved the prediction, saved the y_test values, Amalgamated_Dataset - 1 and Dataset - 2 , trained the model on it, saved the model, saved the prediction, saved the y_test values,mapped the label to the 1-6 labels, Did evaluation and comparison using the same ROC visualization as 004_comparison Colab
+### Scrape latest Politifact.com with 17682 records , Scrape latest Snopes.com with 7022 records, Pulled Inference data from NewsAPI. Done inference using a Button , loaded all the models (sklearn, bert and keras) and ran inference .
 
-## 02_keras.ipynb:Replaced FastText embeddings with Glove ,Loaded Dataset - 1 , trained the model on it, saved the model, saved the prediction, saved the y_test values, Loaded Dataset - 2 ,trained the model on it, saved the model, saved the prediction, saved the y_test values, Amalgamated_Dataset - 1 and Dataset - 2 , trained the model on it, saved the model, saved the prediction, saved the y_test values,,mapped the label to the 1-6 labels, Did evaluation and comparison using the same ROC visualization as 004_comparison Colab
+## 01_sklearn-embedding-pipelines.ipynb: 
 
-## 03_bert.ipynb : Loaded Dataset - 1 , trained the model on it, saved the model, saved the prediction, saved the y_test values, Loaded Dataset - 2 ,trained the model on it, saved the model, saved the prediction, saved the y_test values, Amalgamated_Dataset - 1 and Dataset - 2 , trained the model on it, saved the model, saved the prediction, saved the y_test values,,mapped the label to the 1-6 labels, Did evaluation and comparison using the same ROC visualization as 004_comparison Colab
+### Loaded Dataset - 1 , trained the model on it, saved the model, saved the prediction, saved the y_test values, Loaded Dataset - 2 ,trained the model on it, saved the model, saved the prediction, saved the y_test values, Amalgamated_Dataset - 1 and Dataset - 2 , trained the model on it, saved the model, saved the prediction, saved the y_test values,mapped the label to the 1-6 labels, Did evaluation and comparison using the same ROC visualization as 004_comparison Colab
 
-## 04_ compare-experiments.ipynb: Loaded the predictions and y_tests for each model for sklearn, bert and keras and calculated the RUC scores and compared the sklearn,bert,keras models across Dataset - 1, Dataset - 2 and Amalgamated dataset .
+## 02_keras.ipynb:
+
+### Replaced FastText embeddings with Glove ,Loaded Dataset - 1 , trained the model on it, saved the model, saved the prediction, saved the y_test values, Loaded Dataset - 2 ,trained the model on it, saved the model, saved the prediction, saved the y_test values, Amalgamated_Dataset - 1 and Dataset - 2 , trained the model on it, saved the model, saved the prediction, saved the y_test values,,mapped the label to the 1-6 labels, Did evaluation and comparison using the same ROC visualization as 004_comparison Colab
+
+## 03_bert.ipynb :
+
+### Loaded Dataset - 1 , trained the model on it, saved the model, saved the prediction, saved the y_test values, Loaded Dataset - 2 ,trained the model on it, saved the model, saved the prediction, saved the y_test values, Amalgamated_Dataset - 1 and Dataset - 2 , trained the model on it, saved the model, saved the prediction, saved the y_test values,,mapped the label to the 1-6 labels, Did evaluation and comparison using the same ROC visualization as 004_comparison Colab
+
+## 04_ compare-experiments.ipynb:
+
+### Loaded the predictions and y_tests for each model for sklearn, bert and keras and calculated the RUC scores and compared the sklearn,bert,keras models across Dataset - 1, Dataset - 2 and Amalgamated dataset .
 
 # Comparison across all three for dataset - 1(politifact)
 
