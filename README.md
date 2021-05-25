@@ -1,6 +1,6 @@
 # nlp-1
-# Team - BTS
-# spring 2021 sjsu final exam problem set
+# Team - BTS ( Bharath gunasekaran, Tamanna Mehta and Stuti Agarwal)
+## spring 2021 sjsu final exam problem set
 # Datasets
 
 ## Dataset - 1 : Politifact dataset: Scraped from Poltifact.com
@@ -32,7 +32,7 @@
 ### saved the model, saved the prediction, saved the y_test values, Loaded Dataset - 2 ,
 ### trained the model on it, saved the model, saved the prediction, saved the y_test values,
 ### Amalgamated_Dataset - 1 and Dataset - 2 , trained the model on it, saved the model, saved the prediction,
-### saved the y_test values,,mapped the label to the 1-6 labels, Did evaluation and comparison using the same ROC visualization as 004_comparison Colab
+### saved the y_test values,mapped the label to the 1-6 labels, Did evaluation and comparison using the same ROC visualization as 004_comparison Colab
 ### Comparison of model roc scores across datasets for keras:
 
 ![image](https://user-images.githubusercontent.com/71077352/119454547-8041d080-bced-11eb-9474-9d5d1fb743c9.png)
