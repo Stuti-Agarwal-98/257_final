@@ -51,7 +51,8 @@
 
 ## 04_ compare-experiments.ipynb:
 
-### Loaded the predictions and y_tests for each model for sklearn, bert and keras and calculated the RUC scores and compared the sklearn,bert,keras models across Dataset - 1, Dataset - 2 and Amalgamated dataset .
+### Loaded the predictions and y_tests for each model for sklearn, bert and keras and
+### calculated the RUC scores and compared the sklearn,bert,keras models across Dataset - 1, Dataset - 2 and Amalgamated dataset .
 
 # Comparison across all three for dataset - 1(politifact)
 
