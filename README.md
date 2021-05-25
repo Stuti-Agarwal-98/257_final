@@ -15,15 +15,27 @@
 
 ## 01_sklearn-embedding-pipelines.ipynb: 
 
-### Loaded Dataset - 1 , trained the model on it, saved the model, saved the prediction, saved the y_test values, Loaded Dataset - 2 ,trained the model on it, saved the model, saved the prediction, saved the y_test values, Amalgamated_Dataset - 1 and Dataset - 2 , trained the model on it, saved the model, saved the prediction, saved the y_test values,mapped the label to the 1-6 labels, Did evaluation and comparison using the same ROC visualization as 004_comparison Colab
+### Loaded Dataset - 1 , trained the model on it, saved the model, saved the prediction,
+### saved the y_test values, Loaded Dataset - 2 ,trained the model on it, saved the model,
+### saved the prediction, saved the y_test values, Amalgamated_Dataset - 1 and Dataset - 2 ,
+### trained the model on it, saved the model, saved the prediction, saved the y_test values,
+### mapped the label to the 1-6 labels, Did evaluation and comparison using the same ROC visualization as 004_comparison Colab
 
 ## 02_keras.ipynb:
 
-### Replaced FastText embeddings with Glove ,Loaded Dataset - 1 , trained the model on it, saved the model, saved the prediction, saved the y_test values, Loaded Dataset - 2 ,trained the model on it, saved the model, saved the prediction, saved the y_test values, Amalgamated_Dataset - 1 and Dataset - 2 , trained the model on it, saved the model, saved the prediction, saved the y_test values,,mapped the label to the 1-6 labels, Did evaluation and comparison using the same ROC visualization as 004_comparison Colab
+### Replaced FastText embeddings with Glove ,Loaded Dataset - 1 , trained the model on it,
+### saved the model, saved the prediction, saved the y_test values, Loaded Dataset - 2 ,
+### trained the model on it, saved the model, saved the prediction, saved the y_test values,
+### Amalgamated_Dataset - 1 and Dataset - 2 , trained the model on it, saved the model, saved the prediction,
+### saved the y_test values,,mapped the label to the 1-6 labels, Did evaluation and comparison using the same ROC visualization as 004_comparison Colab
 
 ## 03_bert.ipynb :
 
-### Loaded Dataset - 1 , trained the model on it, saved the model, saved the prediction, saved the y_test values, Loaded Dataset - 2 ,trained the model on it, saved the model, saved the prediction, saved the y_test values, Amalgamated_Dataset - 1 and Dataset - 2 , trained the model on it, saved the model, saved the prediction, saved the y_test values,,mapped the label to the 1-6 labels, Did evaluation and comparison using the same ROC visualization as 004_comparison Colab
+### Loaded Dataset - 1 , trained the model on it, saved the model, saved the prediction, 
+### saved the y_test values, Loaded Dataset - 2 ,trained the model on it, saved the model,
+### saved the prediction, saved the y_test values, Amalgamated_Dataset - 1 and Dataset - 2 ,
+### trained the model on it, saved the model, saved the prediction, saved the y_test values,
+### mapped the label to the 1-6 labels, Did evaluation and comparison using the same ROC visualization as 004_comparison Colab
 
 ## 04_ compare-experiments.ipynb:
 
@@ -44,12 +56,12 @@
 
 # Team Contributions:
 
-## Data Scraping: Bharath & Stuti
+## 00_data-prep.ipynb: Data Scraping: Bharath & Stuti, Inference : All
 ## 01_sklearn-embedding-pipelines.ipynb : Bharath Gunasekaran
 ## 02_keras.ipynb : Tamanna Mehta
 ## 03_bert.ipynb : Stuti Agarwal
 ## 04_ compare-experiments.ipynb : All
-## 00_data-prep.ipynb : Inference : All
+
 
 
 
