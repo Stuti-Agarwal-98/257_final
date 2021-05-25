@@ -1,5 +1,5 @@
 # nlp-1
-# Team - BTS ( Bharath gunasekaran, Tamanna Mehta and Stuti Agarwal)
+# Team - BTS ( Bharath Gunasekaran, Tamanna Mehta and Stuti Agarwal)
 ## spring 2021 sjsu final exam problem set
 # Datasets
 
